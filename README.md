@@ -1,4 +1,4 @@
 - 👋 Olá, sou Juan
 - 👀 Estou interessado em desenvolvimento
-- 🌱 3° semestre em sistemas de informação
+- 🌱 4° semestre em sistemas de informação
 - 📫 Como me encontrar: anjosjuan@gmail.com ou anjosjuan@icloud.com
